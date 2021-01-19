@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/MainwindowBackground.png</file>
+        <file>images/HelpBackground.png</file>
+        <file>images/Edit.png</file>
+        <file>images/Лого.png</file>
+        <file>images/Error.ico</file>
+        <file>images/AddVacancy.png</file>
+        <file>images/CreateMail.png</file>
+        <file>images/Eye.png</file>
+        <file>images/Magnifier.png</file>
+        <file>images/Admin.png</file>
+        <file>images/ArrowLeft.png</file>
+        <file>images/ArrowRight.png</file>
+        <file>images/Download.png</file>
+        <file>images/DownloadAccept.png</file>
+        <file>images/DownloadCancel.png</file>
+        <file>images/Document.png</file>
+        <file>images/Ok.ico</file>
+    </qresource>
+</RCC>
